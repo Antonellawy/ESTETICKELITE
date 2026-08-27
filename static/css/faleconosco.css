@@ -6,6 +6,7 @@ body {
  .contato {
      max-width: 850px;
      margin: 60px auto;
+     border-radius:70px;
  }
 
  .contato h1 {

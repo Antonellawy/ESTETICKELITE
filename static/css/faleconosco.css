@@ -7,7 +7,11 @@ body {
  .contato {
      max-width: 850px;
      margin: 60px auto;
+<<<<<<< HEAD
       border-radius:70px;
+=======
+     border-radius:70px;
+>>>>>>> 15666d5178ec2668cee9318c0fff86094c8c8201
  }
 
  .contato h1 {
